@@ -5,6 +5,11 @@ Final project version for [Building Applications with React and Redux](https://a
 ## Run
 The application is created with [create-react-app](https://github.com/facebook/create-react-app) tool.
 
+Install dependencies:
+```bash
+npm install
+```
+
 The application needs an API, run API and the app as following:
 ```bash
 npm run start:api
